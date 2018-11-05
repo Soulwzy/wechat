@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:id="@+id/group"
+        android:icon="@mipmap/ic_launcher"
+        android:title="发起群聊">
+    </item>
+    <item android:id="@+id/addfriend"
+        android:icon="@mipmap/ic_launcher"
+        android:title="添加朋友">
+    </item>
+    <item android:id="@+id/sao"
+        android:icon="@mipmap/ic_launcher"
+        android:title="扫一扫">
+
+    </item>
+    <item android:id="@+id/manney"
+        android:icon="@mipmap/ic_launcher"
+        android:title="收付款">
+
+    </item>
+    <item android:id="@+id/help"
+        android:icon="@mipmap/ic_launcher"
+        android:title="帮助与反馈">
+
+    </item>
+</menu>
